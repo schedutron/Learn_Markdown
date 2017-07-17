@@ -8,4 +8,4 @@ is the world's most popular search engine.
 [My Stack Overflow Profile][stack]
 
 [1]: https://www.twitter.com/arichduvet
-[stack]: https://www.stackoverflow.com/user/schedutron
+[stack]: https://stackoverflow.com/users/5707563/sam-chats?tab=profile
